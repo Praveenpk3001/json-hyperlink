@@ -1,0 +1,29 @@
+.container{
+    width:100%;
+    background-color:white;
+    display:flex;
+
+}
+table{
+    width:60%;
+    margin-left: 20%;
+    color:white;
+    border: 1px solid white;
+ 
+}
+td{
+    background-color:black;
+    border:2px solid white;
+    height:200px;
+}
+button{
+    height:40px;
+    width:60%;
+    margin-left:20%;    
+}
+.hed{
+    text-align:center;
+}
+.para{
+    text-align:center;
+}
